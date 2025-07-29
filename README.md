@@ -101,7 +101,7 @@
                 <a href="#testimonials" class="font-medium text-gray-700 hover:text-indigo-600 transition">המלצות</a>
                 <a href="#contact" class="font-medium text-gray-700 hover:text-indigo-600 transition">צור קשר</a>
                 <button class="bg-indigo-600 text-white px-6 py-2 rounded-lg hover:bg-indigo-700 transition pulse-btn">
-                    התחל עכשיו
+                    שנתחיל?
                 </button>
             </div>
             
